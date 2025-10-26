@@ -47,4 +47,5 @@ Implement a GUI version using Tkinter or PyQt
 
 Maganpreet Singh
 📧as1783268@gmail.com
+
 https://www.linkedin.com/in/maganpreet-singh-2b1a82317
