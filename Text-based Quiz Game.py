@@ -9,7 +9,6 @@ elif start == 'no':
 else:
     print("Invalid Input")
     exit()  
-
 print("Question 1: Which planet is known as the Red Planet?\n""A) Earth\n""B) Mars\n""C) Jupiter\n""D) Venus")
 Answer1 = input("Enter the answer(A,B,C,D): ").upper()
 if Answer1 == 'B':
